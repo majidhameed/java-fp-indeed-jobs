@@ -11,7 +11,7 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="indeed-jobs_main" target="1.8" />
       <module name="indeed-jobs_test" target="1.8" />
     </bytecodeTargetLevel>
